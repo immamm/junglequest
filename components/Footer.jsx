@@ -73,7 +73,7 @@ import { socials } from '../constants';
 import styles from '../styles';
 import { footerVariants } from '../utils/motion';
 
-function Footer (){
+const Footer = () => {
 
   // const handleButtonClick = () => {
   //   alert('Quest coming soon');
