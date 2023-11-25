@@ -95,5 +95,6 @@ module.exports = {
         ],
       },
     ],
+    "arrow-body-style": "off",
   },
 };
