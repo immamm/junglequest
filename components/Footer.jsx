@@ -65,6 +65,7 @@
 // );
 
 // export default Footer;
+
 'use client';
 
 import { motion } from 'framer-motion';
