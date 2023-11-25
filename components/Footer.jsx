@@ -6,8 +6,7 @@ import styles from '../styles';
 import { footerVariants } from '../utils/motion';
 
 const Footer = () => {
-
-  return (
+  return(
     <motion.footer
     variants={footerVariants}
     initial="hidden"
