@@ -15,7 +15,7 @@ const About = () => (
       whileInView="show"
       viewport={{ once: false, amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto ${styles.flexCenter} flex-col`}
-      id='about'
+      id="about"
     >
       <TypingText title="| About the junglequest" textStyles="text-center" />
 
